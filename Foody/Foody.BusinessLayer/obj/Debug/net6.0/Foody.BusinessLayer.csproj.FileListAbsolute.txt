@@ -1,0 +1,17 @@
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\obj\Debug\net6.0\Foody.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\obj\Debug\net6.0\Foody.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\obj\Debug\net6.0\Foody.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\obj\Debug\net6.0\Foody.BusinessLayer.AssemblyInfo.cs
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\obj\Debug\net6.0\Foody.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\bin\Debug\net6.0\Foody.BusinessLayer.deps.json
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\bin\Debug\net6.0\Foody.BusinessLayer.dll
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\bin\Debug\net6.0\Foody.BusinessLayer.pdb
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\bin\Debug\net6.0\Foody.DataAccessLayer.dll
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\bin\Debug\net6.0\Foody.EntityLayer.dll
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\bin\Debug\net6.0\Foody.DataAccessLayer.pdb
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\bin\Debug\net6.0\Foody.EntityLayer.pdb
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\obj\Debug\net6.0\Foody.Bu.93260553.Up2Date
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\obj\Debug\net6.0\Foody.BusinessLayer.dll
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\obj\Debug\net6.0\refint\Foody.BusinessLayer.dll
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\obj\Debug\net6.0\Foody.BusinessLayer.pdb
+C:\Users\Hakan\source\repos\Foody\Foody.BusinessLayer\obj\Debug\net6.0\ref\Foody.BusinessLayer.dll
